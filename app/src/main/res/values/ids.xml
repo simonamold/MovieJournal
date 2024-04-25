@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="txtTitlePopUp" type="id" />
+    <item name="txtReleaseDatePopUp" type="id" />
+    <item name="btnPopUpSave" type="id" />
+    <item name="btnPopUpCancel" type="id" />
+</resources>
